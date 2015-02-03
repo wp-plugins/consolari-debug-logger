@@ -57,7 +57,7 @@ None so far:)
 4. For easy debugging of the SQL query view the code context of where it was executed.
 
 == Changelog ==
-= 0.1 =
+= 1.01 =
 * Initial release of Consolari Logger
 
 == Upgrade Notice ==
